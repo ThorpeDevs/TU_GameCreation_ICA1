@@ -2224,3 +2224,30 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-15.45.12:106][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.05-15.45.12:106][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.537964, Update Interval: 331.114227
 [2025.11.05-15.45.20:335][386]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.11.05-15.45.51:318][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.11.05-15.51.05:463][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1685.913696
+[2025.11.05-15.51.06:463][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-15.51.06:464][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1686.580444, Update Interval: 331.295502
+[2025.11.05-15.57.21:838][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2062.289795
+[2025.11.05-15.57.22:839][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-15.57.22:839][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2062.956787, Update Interval: 337.341827
+[2025.11.05-15.59.02:827][299]Cmd: TRANSACTION UNDO
+[2025.11.05-15.59.02:827][299]LogEditorTransaction: Undo Rename Folder
+[2025.11.05-15.59.03:565][331]Cmd: TRANSACTION UNDO
+[2025.11.05-15.59.03:565][331]LogEditorTransaction: Undo Create Folder
+[2025.11.05-15.59.38:071][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.11.05-15.59.38:164][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-15.59.38:226][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.11.05-15.59.38:242][337]LogSavePackage: Moving output files for package: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.59.38:242][337]LogSavePackage: Moving '../../../../../../Users/hayde/Desktop/TU_ICA1/Saved/Scenario_2_-_The_Call_to_AdventuB9BFCD0D464561377CE2A1A9C7AD5171.tmp' to '../../../../../../Users/hayde/Desktop/TU_ICA1/Content/Scenarios/Scenario_2_-_The_Call_to_Adventure.umap'
+[2025.11.05-15.59.38:251][337]LogFileHelpers: Saving map 'Scenario_2_-_The_Call_to_Adventure' took 0.063
+[2025.11.05-15.59.38:260][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.089 ms (total: 1.59 sec)
+[2025.11.05-15.59.38:292][337]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-15.59.38:292][337]LogContentValidation: Enabled validators:
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-15.59.38:292][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-15.59.38:292][337]AssetCheck: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure Validating asset
