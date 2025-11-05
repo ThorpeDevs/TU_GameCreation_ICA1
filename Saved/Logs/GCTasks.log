@@ -1846,3 +1846,381 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-15.34.04:779][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2025.11.05-15.34.04:788][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2025.11.05-15.34.04:842][905]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.11.05-15.38.05:418][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door_C
+[2025.11.05-15.38.05:418][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door_C
+[2025.11.05-15.38.05:420][802]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door as actor: BP_Scenario2Door_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2Door_C_0
+[2025.11.05-15.38.05:422][802]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door as actor: BP_Scenario2Door_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2Door_C_0
+[2025.11.05-15.38.06:456][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.11.05-15.38.06:461][854]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.11.05-15.38.06:466][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door_C
+[2025.11.05-15.38.06:466][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door_C
+[2025.11.05-15.38.06:468][854]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door as actor: BP_Scenario2Door_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2Door_C_2
+[2025.11.05-15.38.06:470][854]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2Door.BP_Scenario2Door as actor: BP_Scenario2Door_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2Door_C_2
+[2025.11.05-15.38.43:662][  5]Cmd: ACTOR HIDE SELECTED
+[2025.11.05-15.38.45:496][101]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.38.45:496][101]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.38.45:498][101]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_3
+[2025.11.05-15.38.45:499][101]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_3
+[2025.11.05-15.38.47:188][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.05-15.38.47:198][193]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.11.05-15.38.47:202][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.38.47:202][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.38.47:204][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_4
+[2025.11.05-15.38.47:207][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_4
+[2025.11.05-15.39.07:280][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 967.728943
+[2025.11.05-15.39.07:453][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-15.39.07:453][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 967.886230, Update Interval: 343.556641
+[2025.11.05-15.39.21:620][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.21:620][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.21:622][203]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_5
+[2025.11.05-15.39.21:624][203]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_5
+[2025.11.05-15.39.25:002][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.05-15.39.25:010][392]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.11.05-15.39.25:015][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.25:015][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.25:017][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_6
+[2025.11.05-15.39.25:020][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_6
+[2025.11.05-15.39.40:814][272]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.40:814][272]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.40:816][272]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_7
+[2025.11.05-15.39.40:817][272]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_7
+[2025.11.05-15.39.42:319][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.05-15.39.42:324][352]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.05-15.39.42:328][352]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.42:328][352]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate_C
+[2025.11.05-15.39.42:331][352]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_8
+[2025.11.05-15.39.42:333][352]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Scenario2/BP_Scenario2PressurePlate.BP_Scenario2PressurePlate as actor: BP_Scenario2PressurePlate_C /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure:PersistentLevel.BP_Scenario2PressurePlate_C_8
+[2025.11.05-15.39.55:615][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.11.05-15.39.55:623][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-15.39.55:694][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.05-15.39.55:710][ 94]LogSavePackage: Moving output files for package: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.39.55:710][ 94]LogSavePackage: Moving '../../../../../../Users/hayde/Desktop/TU_ICA1/Saved/Scenario_2_-_The_Call_to_AdventuEDE3D4734F1E264AC465E5BB4D5E7E9E.tmp' to '../../../../../../Users/hayde/Desktop/TU_ICA1/Content/Scenarios/Scenario_2_-_The_Call_to_Adventure.umap'
+[2025.11.05-15.39.55:720][ 94]LogFileHelpers: Saving map 'Scenario_2_-_The_Call_to_Adventure' took 0.063
+[2025.11.05-15.39.55:727][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.034 ms (total: 1.39 sec)
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: Enabled validators:
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-15.39.55:764][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-15.39.55:764][ 94]AssetCheck: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure Validating asset
+[2025.11.05-15.39.56:415][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-15.39.56:421][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-15.39.56:422][133]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-15.39.56:422][133]LogPlayLevel: Creating play world package: /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.39.56:425][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003761s)
+[2025.11.05-15.39.56:425][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure to /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure (0.003806s)
+[2025.11.05-15.39.56:448][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.05-15.39.56:451][133]LogChaosDD: Creating Chaos Debug Draw Scene for world Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.39.56:453][133]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2025.11.05-15.39.56:453][133]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-15.39.56:453][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-15.39.56:453][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-15.39.56:453][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-15.39.56:453][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-15.39.56:453][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-15.39.56:456][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-15.39.56:504][133]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.05-15.39.56:505][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-15.39.56:505][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-15.39.56:505][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-15.39.56:505][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.05-15.39.56:505][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.05-15.39.56:508][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.05-15.39.56:508][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.05-15.39.56:508][133]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.05-15.39.56:508][133]LogAudio: Display: Audio Device (ID: 7) registered with world 'Scenario_2_-_The_Call_to_Adventure'.
+[2025.11.05-15.39.56:508][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.05-15.39.56:512][133]LogLoad: Game class is 'BP_ICAGameMode_C'
+[2025.11.05-15.39.56:513][133]LogWorld: Bringing World /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure up for play (max tick rate 60) at 2025.11.05-15.39.56
+[2025.11.05-15.39.56:514][133]LogWorld: Bringing up level for play took: 0.001723
+[2025.11.05-15.39.56:516][133]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.11.05-15.39.56:522][133]PIE: Server logged in
+[2025.11.05-15.39.56:523][133]PIE: Play in editor total start time 0.102 seconds.
+[2025.11.05-15.40.31:433][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-15.40.31:433][161]LogWorld: BeginTearingDown for /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.40.31:433][161]LogWorld: UWorld::CleanupWorld for Scenario_2_-_The_Call_to_Adventure, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-15.40.31:433][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-15.40.31:438][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-15.40.31:444][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-15.40.31:468][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-15.40.31:469][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.05-15.40.31:469][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.05-15.40.31:471][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.05-15.40.31:479][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.05-15.40.31:558][162]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.11.05-15.40.42:079][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-15.40.42:084][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-15.40.42:084][770]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-15.40.42:085][770]LogPlayLevel: Creating play world package: /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.40.42:088][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003600s)
+[2025.11.05-15.40.42:088][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure to /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure (0.003636s)
+[2025.11.05-15.40.42:107][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.05-15.40.42:111][770]LogChaosDD: Creating Chaos Debug Draw Scene for world Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.40.42:112][770]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2025.11.05-15.40.42:114][770]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-15.40.42:114][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-15.40.42:114][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-15.40.42:114][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-15.40.42:114][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-15.40.42:114][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-15.40.42:116][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-15.40.42:159][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.05-15.40.42:159][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-15.40.42:159][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-15.40.42:159][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-15.40.42:160][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.05-15.40.42:160][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.05-15.40.42:162][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.05-15.40.42:162][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.05-15.40.42:162][770]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.05-15.40.42:162][770]LogAudio: Display: Audio Device (ID: 8) registered with world 'Scenario_2_-_The_Call_to_Adventure'.
+[2025.11.05-15.40.42:162][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.05-15.40.42:166][770]LogLoad: Game class is 'BP_ICAGameMode_C'
+[2025.11.05-15.40.42:167][770]LogWorld: Bringing World /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure.Scenario_2_-_The_Call_to_Adventure up for play (max tick rate 60) at 2025.11.05-15.40.42
+[2025.11.05-15.40.42:167][770]LogWorld: Bringing up level for play took: 0.001575
+[2025.11.05-15.40.42:170][770]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.11.05-15.40.42:176][770]PIE: Server logged in
+[2025.11.05-15.40.42:177][770]PIE: Play in editor total start time 0.093 seconds.
+[2025.11.05-15.41.06:025][192]LogShaderCompilers: Display: ================================================
+[2025.11.05-15.41.06:025][192]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.05-15.41.06:025][192]LogShaderCompilers: Display: Total job queries 201, among them cache hits 20 (9.95%), DDC hits 167 (83.08%), Duplicates 8 (3.98%)
+[2025.11.05-15.41.06:025][192]LogShaderCompilers: Display: Tracking 173 distinct input hashes that result in 155 distinct outputs (89.60%)
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: RAM used: 121.26 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: Job execution time: average 2.35 s, max 2.46 s
+[2025.11.05-15.41.06:029][192]LogShaderCompilers: Display: Job life time (pending + execution): average 2.43 s, max 2.54
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Shader code size: average 6.219 KiB, min 2.785 KiB, max 7.801 KiB
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.56 s
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Average processing rate: 2.35 jobs/sec
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Total thread time: 3.134 s
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Total thread preprocess time: 3.476 s
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Percentage time preprocessing: 110.89%
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.45 sec, max 0.45 sec, min 0.44 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.51% of total time (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.47% of total time (compiled    2 times, average 0.45 sec, max 0.45 sec, min 0.44 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                  FHitProxyPS - 15.68% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                  FHitProxyVS - 14.34% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: === Material stats ===
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Materials Translated:    135
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.11.05-15.41.06:030][192]LogShaderCompilers: Display: ================================================
+[2025.11.05-15.41.26:189][401]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Scenarios/Scenario_3_-_Meeting_the_Mentor"
+[2025.11.05-15.41.26:189][401]LogNet: Browse: /Game/Scenarios/Scenario_3_-_Meeting_the_Mentor
+[2025.11.05-15.41.26:190][401]LogLoad: LoadMap: /Game/Scenarios/Scenario_3_-_Meeting_the_Mentor
+[2025.11.05-15.41.26:190][401]LogWorld: BeginTearingDown for /Game/Scenarios/UEDPIE_0_Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.41.26:192][401]LogWorld: UWorld::CleanupWorld for Scenario_2_-_The_Call_to_Adventure, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-15.41.26:192][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-15.41.26:246][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-15.41.26:249][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.05-15.41.26:253][401]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-15.41.26:282][401]LogAudio: Display: Audio Device (ID: 8) registered with world 'Scenario_3_-_Meeting_the_Mentor'.
+[2025.11.05-15.41.26:282][401]LogChaosDD: Creating Chaos Debug Draw Scene for world Scenario_3_-_Meeting_the_Mentor
+[2025.11.05-15.41.26:283][401]LogTexture: Display: Building textures: /Game/Scenarios/BaseContent/Textures/T_GC2025-Scenario3.T_GC2025-Scenario3 (BGRA8, 860x482 x1x1x1) (Required Memory Estimate: 15.231407 MB), EncodeSpeed: Fast
+[2025.11.05-15.41.26:284][401]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2025.11.05-15.41.26:284][401]LogLoad: Game class is 'BP_ICAGameMode_C'
+[2025.11.05-15.41.26:285][401]LogWorld: Bringing World /Game/Scenarios/UEDPIE_0_Scenario_3_-_Meeting_the_Mentor.Scenario_3_-_Meeting_the_Mentor up for play (max tick rate 60) at 2025.11.05-15.41.26
+[2025.11.05-15.41.26:285][401]LogWorld: Bringing up level for play took: 0.001596
+[2025.11.05-15.41.26:291][401]LogLoad: Took 0.100856 seconds to LoadMap(/Game/Scenarios/Scenario_3_-_Meeting_the_Mentor)
+[2025.11.05-15.41.26:291][401]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Scenarios/Scenario_3_-_Meeting_the_Mentor
+[2025.11.05-15.41.27:974][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-15.41.27:974][407]LogWorld: BeginTearingDown for /Game/Scenarios/UEDPIE_0_Scenario_3_-_Meeting_the_Mentor
+[2025.11.05-15.41.27:975][407]LogWorld: UWorld::CleanupWorld for Scenario_3_-_Meeting_the_Mentor, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-15.41.27:975][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-15.41.28:013][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-15.41.28:019][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-15.41.28:040][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-15.41.28:041][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.05-15.41.28:041][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.11.05-15.41.28:043][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.11.05-15.41.28:053][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.05-15.41.28:087][408]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.11.05-15.42.40:021][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.11.05-15.42.40:028][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-15.42.40:101][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.05-15.42.40:115][331]LogSavePackage: Moving output files for package: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure
+[2025.11.05-15.42.40:116][331]LogSavePackage: Moving '../../../../../../Users/hayde/Desktop/TU_ICA1/Saved/Scenario_2_-_The_Call_to_Adventu3508329B4E6136BDB528B796E88F47F0.tmp' to '../../../../../../Users/hayde/Desktop/TU_ICA1/Content/Scenarios/Scenario_2_-_The_Call_to_Adventure.umap'
+[2025.11.05-15.42.40:126][331]LogFileHelpers: Saving map 'Scenario_2_-_The_Call_to_Adventure' took 0.064
+[2025.11.05-15.42.40:133][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.080 ms (total: 1.49 sec)
+[2025.11.05-15.42.40:165][331]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-15.42.40:165][331]LogContentValidation: Enabled validators:
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-15.42.40:165][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-15.42.40:165][331]AssetCheck: /Game/Scenarios/Scenario_2_-_The_Call_to_Adventure Validating asset
+[2025.11.05-15.43.31:322][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.05-15.44.29:679][846]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.11.05-15.44.33:247][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:269][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:292][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:314][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:337][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:360][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:382][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:406][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:428][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:453][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:475][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:498][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:521][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:546][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:569][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:593][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:617][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:642][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:667][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:692][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:714][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:736][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:759][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:781][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:805][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:828][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:851][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:873][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:895][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:918][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:941][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:962][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.33:985][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:007][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:030][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:053][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:077][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:099][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:121][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:144][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:167][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:189][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:213][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:235][ 40]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'C:/Users/hayde_tcy3gad': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'D:/TU_ICA1': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'D:/TU_ICA1-main': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: Error: fatal: Invalid path 'D:/TU_ICA1-main': No such file or directory
+[2025.11.05-15.44.34:247][ 40]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.36:184][156]LogSlate: Window 'View Changes' being destroyed
+[2025.11.05-15.44.36:189][156]LogSlate: Window 'View Changes' being destroyed
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:185][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.44:186][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/hayde/Desktop/TU_ICA1'
+[2025.11.05-15.44.57:480][483]LogSlate: Window 'Submit Files' being destroyed
+[2025.11.05-15.44.57:701][483]LogSourceControl: commit successful: [main 216e753] Updated Map To Allow For Completion
+[2025.11.05-15.44.57:744][483]SourceControl: [main 216e753] Updated Map To Allow For Completion
+[2025.11.05-15.44.57:744][483]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.11.05-15.44.57:773][483]SourceControl: Commited [main 216e753] Updated Map To Allow For Completion.
+[2025.11.05-15.45.11:973][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1332.419556
+[2025.11.05-15.45.12:106][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-15.45.12:106][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.537964, Update Interval: 331.114227
+[2025.11.05-15.45.20:335][386]LogSlate: Window 'Revision Control Login' being destroyed
