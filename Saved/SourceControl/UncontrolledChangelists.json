@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/hayde/Desktop/TU_ICA1/Content/Blueprints/Scenario2/BP_Scenario2Door.uasset",
+				"C:/Users/hayde/Desktop/TU_ICA1/Content/Blueprints/Scenario2/BP_Scenario2PressurePlate.uasset",
+				"C:/Users/hayde/Desktop/TU_ICA1/Content/Scenarios/Scenario_2_-_The_Call_to_Adventure.umap",
 				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Blueprints/DoorAndKeycard.uasset",
 				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
 				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Scenarios/BaseContent/BP_ICAGameMode.uasset",
